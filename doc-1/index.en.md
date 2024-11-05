@@ -6,10 +6,10 @@ tags = ['red','green','blue']
 lastmod = 2024-03-15T11:00:00-08:00
 dateInfo = true
 toc = true
-type = "doc"
+type = 'doc'
 weight = 10
-version = "v.0.1-alpha"
-license = "cc-by"
+version = 'v.0.1-alpha'
+license = '<a href="">Test</a>'
 +++
 
 # Embracing Sustainable Living
